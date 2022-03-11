@@ -27,15 +27,3 @@ yarn build
 ```
 
 Checkout the [deployment documentation](https://v3.nuxtjs.org/docs/deployment).
-
-## Vue.use
-
-`plugins/TDesign.client.ts` 取消注释
-
-## unplugin-vue-components
-
-`nuxt.config.ts` 取消注释
-
-## 单独引入
-
-`app.vue` 取消注释

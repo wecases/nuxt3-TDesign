@@ -5,10 +5,11 @@
     "build": "nuxi build",
     "start": "node .output/server/index.mjs"
   },
+  "type": "module",
   "devDependencies": {
-    "nuxt3": "latest",
-    "tdesign-vue-next": "^0.9.4",
-    "unplugin-auto-import": "^0.6.1",
-    "unplugin-vue-components": "^0.17.21"
+    "nuxt3": "latest"
+  },
+  "dependencies": {
+    "tdesign-vue-next": "0.9.4"
   }
 }
