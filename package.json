@@ -9,6 +9,6 @@
     "nuxt3": "latest",
     "tdesign-vue-next": "0.16.1",
     "unplugin-auto-import": "0.6.1",
-    "unplugin-vue-components": "0.17.21"
+    "unplugin-vue-components": "0.21.2"
   }
 }
