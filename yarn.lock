@@ -5523,17 +5523,17 @@ tar@^6.1.0, tar@^6.1.11, tar@^6.1.2:
     mkdirp "^1.0.3"
     yallist "^4.0.0"
 
-tdesign-icons-vue-next@~0.1.1:
-  version "0.1.2"
-  resolved "https://registry.yarnpkg.com/tdesign-icons-vue-next/-/tdesign-icons-vue-next-0.1.2.tgz#c8daad3e676e231d80590d90a56f6c31ad878501"
-  integrity sha512-/2N1caCiZ7FbKnHQsv4edojJLGtrf6jsPgQeFU0AHh4Fhm/zFtiF/TwTfhddnVc82vXdvT1oQpfqnkyQFpmsTw==
+tdesign-icons-vue-next@^0.1.3:
+  version "0.1.4"
+  resolved "https://registry.yarnpkg.com/tdesign-icons-vue-next/-/tdesign-icons-vue-next-0.1.4.tgz#d813f57bd2f668ace62ed034c333ae6de573586b"
+  integrity sha512-9MaJ/2t7+L1tZJ6m8XFI1tv09V4AhZ0Yhrsw5l1pKgDdDjWyMR0twLb0qKO/RNCQJcGRTaWLjuKR9rqMQCNVlA==
   dependencies:
     "@babel/runtime" "^7.16.3"
 
-tdesign-vue-next@0.16.1:
-  version "0.16.1"
-  resolved "https://registry.yarnpkg.com/tdesign-vue-next/-/tdesign-vue-next-0.16.1.tgz#81bc31c71d4aaefe43b9c9aeb190c90638c25284"
-  integrity sha512-nlJmmppc5UeumXfz2hkSvX+pgfXklq0mM/vYQZyL6O1SIlDukMtBfQklPlSn6SAgD/2wIJsbYVgEdNF+/ch7tw==
+tdesign-vue-next@0.18.1:
+  version "0.18.1"
+  resolved "https://registry.yarnpkg.com/tdesign-vue-next/-/tdesign-vue-next-0.18.1.tgz#5061f669c5fed6275944b29d8738ec66cd8bb598"
+  integrity sha512-G3XCasWB3UsTt4HMkRX06RJzu9kHTttUBH4RS9ltxf5wVCcICIozyHCYSjKmASxsoFxYT/jHObjXcAgO7rAP2A==
   dependencies:
     "@babel/runtime" "^7.14.8"
     "@popperjs/core" "^2.9.3"
@@ -5546,7 +5546,7 @@ tdesign-vue-next@0.16.1:
     lodash "^4.17.15"
     npm "^8.11.0"
     sortablejs "^1.15.0"
-    tdesign-icons-vue-next "~0.1.1"
+    tdesign-icons-vue-next "^0.1.3"
     tinycolor2 "^1.4.2"
     validator "^13.5.1"
 
